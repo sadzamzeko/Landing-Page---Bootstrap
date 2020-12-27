@@ -34,3 +34,12 @@ body, html{
     font-size: 23px;
     text-shadow: 0.1rem 0.1rem 0.3rem black;
 }
+.padding{
+    padding: 80px 0;
+}
+.col h2{
+    font-size: 50px;
+    font-weight: 700;
+    text-shadow: 0.1rem 0.1rem 0.3rem black;
+    margin: 30px auto;
+}
