@@ -76,3 +76,11 @@ body, html{
     cursor: pointer;
     transform: scale(1.15,1.15);
 }
+#fixed2{
+    background: url(../image/sys16.jpg) no-repeat center center fixed;
+    display: table;
+    height: 60%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
