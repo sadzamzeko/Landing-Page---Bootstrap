@@ -43,3 +43,11 @@ body, html{
     text-shadow: 0.1rem 0.1rem 0.3rem black;
     margin: 30px auto;
 }
+#fixed{
+    background: url(../image/sys15.jpg) no-repeat center center fixed;
+    display: table;
+    height: 60%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
