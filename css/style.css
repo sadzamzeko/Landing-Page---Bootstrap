@@ -24,3 +24,13 @@ body, html{
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active{
     color: #fff;
 }
+.carousel-caption h1{
+    font-size: 500%;
+    font-weight: 800;
+    text-shadow: 0.1rem 0.1rem 0.3rem black;
+
+}  
+.carousel-caption p {
+    font-size: 23px;
+    text-shadow: 0.1rem 0.1rem 0.3rem black;
+}
