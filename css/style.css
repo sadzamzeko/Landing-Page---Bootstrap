@@ -133,5 +133,8 @@ footer{
         width: 90%;
         padding: 0;
     }
+    footer{
+        margin-top: 40px;
+    }
 }
 
