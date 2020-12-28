@@ -116,3 +116,22 @@ footer{
 .icon{
     max-width: 100px;
 }
+@media (max-width:480px){
+    .navbar img{
+        width: 60px;
+    }
+    .carousel-caption h1{
+        font-size: 300%;
+    }
+    .carousel-caption p {
+        font-size: 18px;
+    }
+    .test{
+        padding: 0 10px;
+    }
+    .songs-box{
+        width: 90%;
+        padding: 0;
+    }
+}
+
